@@ -1,3 +1,6 @@
+# Real_Estate_with_Escrow
+Developed Real Estate project which uses ERC-721 NFT standard along with the Escrow contract to stramline the worklfow of the project.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
